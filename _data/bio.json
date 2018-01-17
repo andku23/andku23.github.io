@@ -2,7 +2,7 @@
   "basics": {
     "name": "Andrew Kurano",
     "label": "Student",
-    "picture": "https://andku23.github.io/images/profilepic.png",
+    "picture": "../images/profilepic.png",
     "email": "akurano.hawaii.edu",
     "phone": "808-398-7638",
     "website": "https://azuligno.com",
