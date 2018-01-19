@@ -7,15 +7,15 @@ permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: Wow what a project
+  - Hololens
+  - Hololens
+  - Hololens
+summary: Hololens Project
 ---
 
 <div class="ui small rounded images">
  
 </div>
 
-I learned a lot from engineering and computer science
+I'm doing a project making an AR training sim for one of the campus labs.
 
