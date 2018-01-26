@@ -1,0 +1,48 @@
+
+
+---
+layout: essay
+type: essay
+title: Smart vs. Stupid Questions
+# All dates must be YYYY-MM-DD format!
+date: 2017-01-25
+labels:
+  - Software Engineering
+  - Learning
+---
+
+Smart vs. Stupid Questions
+by Andrew Kurano
+
+Smart Question:
+https://stackoverflow.com/questions/48454969/repeat-function-adding-values-if-remainder-of-sum-is-less-than-defined-number
+Stupid Question:
+https://stackoverflow.com/questions/48307652/display-list-of-downloads-in-navbarmenu-in-shiny
+
+
+   After reading “How to ask questions the smart way” by Eric Raymond, I understand how it feels to be on 
+the other side of a questions board.  Judging from what he said, so long as you show that you have put 
+in effort to solve the problem yourself, you will be able to find help on the internet.  In addition to 
+this, it is also advisable to know your audience when you post and make sure that wherever you post your 
+information, it is relevant.  For the most part, so long as these rules are met, other users will very 
+willingly help you out.
+   An example of a smart question can be found above.  This user immediately begins by saying that this is 
+her first time using Stack Overflow and apologizes for any errors.  She then goes on to say that she has
+already attempted to search for the answer online but did not find a suitable solution.  At this point 
+she comes across as a beginner programmer that seems to be having some difficulty with her code and is 
+now trying to see if she could find some answers on Stack Overflow.  She then explains the problem in 
+great detail and then explains how she tried to fix it, showing her attempt to solve the problem herself.  
+She then opens herself up to criticism over both her coding style and work.  After reading her question 
+I think she comes across as a very modest programmer that tried her hardest but could not solve the problem 
+and I would very willingly help her out.
+   An example of a stupid question can also be found in the links above.  This person starts their question 
+by saying what they wanted to do.  They then copied and pasted their code straight to Stack Overflow and 
+screenshot their results.  They then asked “how can I fix it?”  Asking a question like this is basically 
+asking someone else on the internet to do this problem for you instead of asking them to teach you how to 
+solve the problem.  Someone actually posted an answer to this question in the form of what they did to 
+solve the problem.  Their answer was just the solution to the problem and the person who asked the question 
+ probably did not learn much from this experience.
+   The difference between asking smart and stupid questions is often the difference between you getting, and not 
+getting an answer on Stack Overflow.  Remember to phrase your questions respectfully since the people answering 
+the question often have many questions to go through and don’t want to waste time on doing other people’s work 
+for them.
