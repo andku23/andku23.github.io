@@ -16,7 +16,7 @@ summary: Quest to design a game to embellish my team portfolio.  One summer's at
 <div class="ui small rounded images">
  
 </div>
-
+<div style = "text-align:justify">
 <h1>Alexa I</h1>
 
 
@@ -37,7 +37,7 @@ summary: Quest to design a game to embellish my team portfolio.  One summer's at
     
 <h1>Alexa II</h1>
 
-<h6 style = "text-align:justify">
+
          Alexa II (Alexa version 2.0), was the second iteration of the Alexa
     project.  For this version, I took up the majority of the programming as 
     well as the art, since my professor gave me the green light to turn this in 
@@ -48,7 +48,7 @@ summary: Quest to design a game to embellish my team portfolio.  One summer's at
     code that was in the game.  After I learned how the project worked, it was 
     pretty easy for me to incorporate new features to the game.
   
- </h6>
+
 <img src = "http://azuligno.com/wp-content/uploads/2018/01/alexa11.png" style = "width:100%">
     
 
@@ -67,7 +67,9 @@ summary: Quest to design a game to embellish my team portfolio.  One summer's at
     are busy searching for jobs at the moment.  However we are looking forward 
     to creating the third and final version of this game which we will keep as
     our main portfolio game.
-    
+
+
+</div>
     
 
          
