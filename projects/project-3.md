@@ -38,7 +38,7 @@ summary: Quest to design a game to embellish my team portfolio.  One summer's at
 <h1>Alexa II</h1>
 
 
-         Alexa II (Alexa version 2.0), was the second iteration of the Alexa
+         "Alexa II (Alexa version 2.0), was the second iteration of the Alexa"
     project.  For this version, I took up the majority of the programming as 
     well as the art, since my professor gave me the green light to turn this in 
     as the final project for his class.  The first thing I had to do was learn 
@@ -50,7 +50,9 @@ summary: Quest to design a game to embellish my team portfolio.  One summer's at
   
 
 <img src = "http://azuligno.com/wp-content/uploads/2018/01/alexa11.png" style = "width:100%">
-    
+<h6 style = "text-align:justify">
+    The only current boss fight in our game.  Getting prepared to block another attack.
+</h6>
 
     
         The other part of the project I had to complete was the artistic side. 
