@@ -14,7 +14,7 @@ summary: Quest to design a game to embellish my team portfolio.  One summer's at
 ---
 
 <div class="ui small rounded images">
- <img src = "http://azuligno.com/wp-content/uploads/2018/01/alexa8.png">
+ 
 </div>
 
 <h1>Alexa I</h1>
@@ -46,6 +46,8 @@ summary: Quest to design a game to embellish my team portfolio.  One summer's at
     very good job of keeping things organized, but because of the pure bulk of 
     code that was in the game.  After I learned how the project worked, it was 
     pretty easy for me to incorporate new features to the game.
+    
+    <img src = "http://azuligno.com/wp-content/uploads/2018/01/alexa8.png" style = "width:100%">
     
 
     
