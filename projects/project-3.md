@@ -37,7 +37,7 @@ summary: Quest to design a game to embellish my team portfolio.  One summer's at
     
 <h1>Alexa II</h1>
 
-<p style = "text-align:center">
+<p style = "align:center">
          Alexa II (Alexa version 2.0), was the second iteration of the Alexa
     project.  For this version, I took up the majority of the programming as 
     well as the art, since my professor gave me the green light to turn this in 
