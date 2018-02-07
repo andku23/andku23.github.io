@@ -10,7 +10,7 @@ labels:
   - Technical Art
   - Programming
   - Game Design
-summary: Game Design
+summary: Quest to design a game to embellish my team portfolio.  One summer's attempt to learn the entire gaming workflow.
 ---
 
 <div class="ui small rounded images">
