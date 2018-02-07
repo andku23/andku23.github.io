@@ -36,13 +36,13 @@ summary: Create a Mixed Reality learning environment for the Microsoft Hololens 
     little notes as they would like within the 3D environment.  Once the 
     instructor feels that they have an adequate amount of notes to teach a new 
     user, they can save all of the holograms they created in their overlay to a 
-    file.  This file can either be stored locally within the hololens, or uploaded 
-    to a server.  
+    file.  This file can either be stored locally within the hololens, or 
+    uploaded to a server.  
     
         When a student or new user  would like to learn how to use the documented 
     material, they will be able to use the file saved by the instructor.  The user 
     can either put on the same hololens as the instructor, or their own hololens 
-    containing the HALE program and download the hologram file from a server.  Once 
-    the file is downloaded the user will be able to see all of the notes that the 
-    instructor created.  The user will be able to learn more efficiently by being 
-    able to see all of the annotations within the actual work environment.
+    containing the HALE program and download the hologram file from a server.  
+    Once the file is downloaded the user will be able to see all of the notes that 
+    the instructor created.  The user will be able to learn more efficiently by 
+    being able to see all of the annotations within the actual work environment.
