@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andrew Kurano</title>
-    <link>https://andku23.github.io/</link>
-    <description>Recent content on Andrew Kurano</description>
+    <title>Jack Lam</title>
+    <link>https://jacksylam.github.io/</link>
+    <description>Recent content on Jack Lam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://andku23.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jacksylam.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Me</title>
-      <link>https://andku23.github.io/about-me/</link>
+      <link>https://jacksylam.github.io/about-me/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://andku23.github.io/about-me/</guid>
-      <description>&lt;p&gt;I am a computer engineer from the University of Hawai'i at Manoa.  I work as a Technical Artist at the Laboratory for Advanced Visualization and Applications (&lt;a href="http://lava.manoa.hawaii.edu">LAVA&lt;/a&gt;), creating VR and AR demos.&lt;/p&gt;</description>
+      <guid>https://jacksylam.github.io/about-me/</guid>
+      <description>&lt;p&gt;I am a graduate student at the University of Hawaiʻi at Manoa. Currently, I am pursing a M.S. in Computer Science while being a Research Assistant for the Laboratory for Advanced Visualization and Applications (&lt;a href=&#34;http://lava.manoa.hawaii.edu&#34;&gt;LAVA&lt;/a&gt;).&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Alexa</title>
+      <title>Destiny-class CyberCANOE</title>
       <link>https://jacksylam.github.io/destiny-class-cybercanoe/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://andku23.github.io/destiny-class-cybercanoe/</guid>
-      <description>&lt;p&gt;This was a project built during one summer to learn the game development workflow from start to finish.&lt;/p&gt;
+      <guid>https://jacksylam.github.io/destiny-class-cybercanoe/</guid>
+      <description>&lt;p&gt;This was a project to build a new hybrid reality system in the Laboratory for Advanced Visualization and Applications (LAVA).&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
