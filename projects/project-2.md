@@ -45,6 +45,23 @@ summary: A twist to the common alarm clock
     would only ring while you were connected to these connection points.
     
 <h1>Technical Decisions</h1>
+          
+          While making this app, there were a few decisions I had to make.  One of
+    original ideas was to make the app based off of your location instead of off
+    of your wifi connection.  However, after implementing this idea, we found that 
+    having location on your phone set to active all the time really kills your 
+    your battery.  In addition to this, the app would constantly have to check to 
+    see if you were within the location every minute, whereas the wifi would only
+    have to be checked every time you either connected or disconnected to a wifi
+    source.
+    
+<h1>What I Learned</h1>
+            
+           I think the main thing I learned from this project was the use of 
+    Android Studios as a development tool.  I already knew how to use Java before 
+    I worked on this project, however I still had difficulty learning the unique
+    differences of the Android Studios APIs.  However, now that I know how to 
+    develop for mobile apps, it is a lot easier to compete in Hack-a-thons.
               
    
 
