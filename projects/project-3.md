@@ -48,7 +48,7 @@ summary: Quest to design a game to embellish my team portfolio.  One summer's at
     code that was in the game.  After I learned how the project worked, it was 
     pretty easy for me to incorporate new features to the game.
   
-</br>
+<br>
 <img src = "http://azuligno.com/wp-content/uploads/2018/01/alexa11.png" style = "width:100%">
 <h6 style = "text-align:justify">
     The only current boss fight in our game.  Getting prepared to block another attack.
