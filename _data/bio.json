@@ -101,21 +101,22 @@
       "company": "UH LAVA Lab",
       "position": "Technical Artist",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2017-06-01",
       "endDate": "Present",
-      "summary": "Hololens",
+      "summary": "Combined 3D art and programming knowledge to create VR and AR demos",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Learned how to design programs for Microsoft Hololens",
+        "Used Blender to create 3D models for the program",
+        "Coordinated with navy sponsors for future project developments"
       ]
     },
     {
       "company": "Society of Native Hawaiian Engineers",
       "position": "Web Developer",
-      "website": "www.kalaipohaku.org",
+      "website": "http://www.kalaipohaku.org",
       "startDate": "2016-01-01",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Web Developer of NSF grant, for broadening participation of Native Hawaiians in engineering",
       "highlights": [
         "Created website using HTML, CSS and JavaScript",
         "Coordinated with professors and Grant Investigators"
