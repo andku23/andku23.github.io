@@ -37,7 +37,7 @@ summary: Quest to design a game to embellish my team portfolio.  One summer's at
     
 <h1>Alexa II</h1>
 
-<div style = "text-align:justify">
+<h6 style = "text-align:justify">
          Alexa II (Alexa version 2.0), was the second iteration of the Alexa
     project.  For this version, I took up the majority of the programming as 
     well as the art, since my professor gave me the green light to turn this in 
@@ -48,7 +48,7 @@ summary: Quest to design a game to embellish my team portfolio.  One summer's at
     code that was in the game.  After I learned how the project worked, it was 
     pretty easy for me to incorporate new features to the game.
   
- </div>
+ </h6>
 <img src = "http://azuligno.com/wp-content/uploads/2018/01/alexa11.png" style = "width:100%">
     
 
