@@ -19,8 +19,11 @@ summary: A twist to the common alarm clock
 
 <h1>The Program</h1>
 
-          <b>Have you ever had a phone alarm go off at a time that would be 
-    considered inappropriate?</b> For\example having your phone go off during 
+<b>Have you ever had a phone alarm go off at a time that would be 
+    considered inappropriate?</b>
+
+          Have you ever had a phone alarm go off at a time that would be 
+    considered inappropriate? For example having your phone go off during 
     a lecture hall, or a funeral would be both distracting for others, and 
     embarrassing for you. If you are like me and have a sleep schedule that has 
     fallen into disarray, then you tend to set alarms as you need them, then 
