@@ -39,19 +39,19 @@
   },
   "interests": [
     {
-      "name": "not internet of things",
+      "name": "Game Design",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "not data mining",
+      "name": "3D Art",
       "keywords": [
       ]
     },
     {
-      "name": "not artificial intelligence",
+      "name": "Environmental Programming",
       "keywords": [
       ]
     }
@@ -62,22 +62,25 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
+        "C#",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Arduino",
+        "JavaScript",
+        "Python"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Programs/Tools",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Blender",
+        "Maya",
+        "ZBrush",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Substance Painter",
+        "Unity",
+        "Microsoft Hololens"
       ]
     }
   ],
