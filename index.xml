@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jack Lam</title>
+    <link>https://jacksylam.github.io/</link>
+    <description>Recent content on Jack Lam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jacksylam.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://jacksylam.github.io/about-me/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jacksylam.github.io/about-me/</guid>
+      <description>&lt;p&gt;I am a graduate student at the University of Hawaiʻi at Manoa. Currently, I am pursing a M.S. in Computer Science while being a Research Assistant for the Laboratory for Advanced Visualization and Applications (&lt;a href=&#34;http://lava.manoa.hawaii.edu&#34;&gt;LAVA&lt;/a&gt;).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Destiny-class CyberCANOE</title>
+      <link>https://jacksylam.github.io/destiny-class-cybercanoe/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jacksylam.github.io/destiny-class-cybercanoe/</guid>
+      <description>&lt;p&gt;This was a project to build a new hybrid reality system in the Laboratory for Advanced Visualization and Applications (LAVA).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Effects of Parallax and Target Estimation</title>
+      <link>https://jacksylam.github.io/effects-of-parallax-and-target-estimation/</link>
+      <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jacksylam.github.io/effects-of-parallax-and-target-estimation/</guid>
+      <description>&lt;p&gt;This was a project to see how having &lt;sup&gt;20&lt;/sup&gt;&amp;frasl;&lt;sub&gt;20&lt;/sub&gt; visual acuity in a hybrid reality environment may impact a user&amp;rsquo;s distance estimation.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Attack on Algae</title>
+      <link>https://jacksylam.github.io/attack-on-algae/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jacksylam.github.io/attack-on-algae/</guid>
+      <description>&lt;p&gt;This was a group project involving computer scientists, animators, and marine biologists to produce a museum exhibit that teaches the public about the harm of algae in coral reefs at the Imiloa Astronomy Center of Hawaii.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kale With Friends</title>
+      <link>https://jacksylam.github.io/kale-with-friends/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jacksylam.github.io/kale-with-friends/</guid>
+      <description>&lt;p&gt;This was a group project where we designed and implemented a website to bring consumers and farmers together.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Online Batch Scheduling Simulator</title>
+      <link>https://jacksylam.github.io/online-batch-scheduling-simulator/</link>
+      <pubDate>Thu, 28 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jacksylam.github.io/online-batch-scheduling-simulator/</guid>
+      <description>&lt;p&gt;This was a group project to build an Online Batch Scheduling Simulator to study the performance of various algorithms.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Automated Sheet Music Translation</title>
+      <link>https://jacksylam.github.io/automated-sheet-music-translation/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jacksylam.github.io/automated-sheet-music-translation/</guid>
+      <description>&lt;p&gt;This was a group project where our goal was to build a Optical Music Recognition (OMR) system from scratch using the skills we learned in Computer Vision class.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
