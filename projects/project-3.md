@@ -47,6 +47,8 @@ summary: Quest to design a game to embellish my team portfolio.  One summer's at
     code that was in the game.  After I learned how the project worked, it was 
     pretty easy for me to incorporate new features to the game.
     
+<img src = "http://azuligno.com/wp-content/uploads/2018/01/alexa8.png">
+    
         The other part of the project I had to complete was the artistic side. 
     I was not satisfied with my art from the first version of the game so I 
     wanted to do a complete artistic overhaul.  This meant completely recreating
