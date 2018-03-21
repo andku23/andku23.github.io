@@ -1,0 +1,31 @@
+---
+layout: essay
+type: essay
+title: "Final Project Idea"
+# All dates must be YYYY-MM-DD format!
+date: 2018-03-20
+labels:
+  - Software Engineering
+  - Meteor
+---
+
+
+   Overview
+   Problem:
+   Student have difficulty finding parking, and knowing where they can and cannot
+   park. 
+   
+   Solution
+   The solution to this problem would be to make a web app that allows students to
+   create an account and select the parking passes that they own.  From this they would
+   be able to see where are when they are able to park on campus.  
+   
+   Page Ideas
+   Our landing page could have signin/create account pages where the user could make 
+   their account, a personal page where they could select their passes, and finally a
+   school map page with a slider bar for the time of day that allows them to see where
+   they can park for what time.  
+   
+   Case Ideas
+   
+
