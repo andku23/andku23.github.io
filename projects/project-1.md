@@ -14,8 +14,8 @@ summary: Create a Mixed Reality learning environment for the Microsoft Hololens 
 ---
 
 <div class="ui small rounded images">
-  <img src = "images/holosage/1.jpg">
-  <img src = "images/holosage/2.jpg">
+  <img src = "../images/holosage/1.jpg">
+  <img src = "../images/holosage/2.jpg">
 </div>
 
 ## Introduction
