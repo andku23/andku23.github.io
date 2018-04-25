@@ -17,17 +17,17 @@
        
         </div>
       </div> 
-      <div style = "width: 100%" class="center aligned content">
-        <a href="{{ site.baseurl}}/projects/">
+      <div style = "width: 100%" class="center aligned content four column grid">
+        <a href="{{ site.baseurl}}/projects/" class = "ui column">
           <button class="ui inverted button">Projects ({{ num_projects }})</button>
         </a>
-        <a href="{{ site.baseurl}}/essays/">
-          <button class="ui inverted button">Essays ({{ num_essays }})</button>
+        <a href="{{ site.baseurl}}/essays/" class = "ui column">
+          <button class="ui inverted button" >Essays ({{ num_essays }})</button>
         </a>
-        <a href="{{ site.baseurl}}/bio/">
+        <a href="{{ site.baseurl}}/bio/" class = "ui column">
           <button class="ui inverted button">{{ site.bio-page-label }}</button>
         </a>
-        <span style = "background-color:#ffffff; color:#ffffff" class="ui card">
+        <span style = "background-color:#ffffff; color:#ffffff" class="ui column">
 
           {% include home-network-links.html %}
        
@@ -44,9 +44,6 @@
       </div>
       <div class="center aligned content">
         
-      </div>
-      <div style = "color:#ffffff" class="ui center aligned card">
-        <h4>{% include home-network-links.html %}</h4>
       </div>
     </div>
     
