@@ -17,7 +17,7 @@
        
         </div>
       </div> 
-      <div style = "width: 100%" class="ui buttons center aligned content">
+      <div style = "width: 100%" class="center aligned content">
         <a href="{{ site.baseurl}}/projects/">
           <button class="ui inverted button">Projects ({{ num_projects }})</button>
         </a>
@@ -27,10 +27,8 @@
         <a href="{{ site.baseurl}}/bio/">
           <button class="ui inverted button">{{ site.bio-page-label }}</button>
         </a>
-        <span style = "background-color:#ffffff; color:#ffffff" class="ui column">
-
-          {% include home-network-links.html %}
-       
+        <span style = "min-width: 100px; background-color:#ffffff; color:#ffffff" class="ui column">
+          {% include home-network-links.html %}    
         </span>
         
       </div>
