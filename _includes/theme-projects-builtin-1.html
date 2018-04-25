@@ -1,5 +1,8 @@
 <div style="padding-top: 20px" class="ui container ">
 
+  <div class = "ui centered">
+    <h2> Professional Project </h2>
+  </div> 
   <div class="ui stackable centered four cards">
     {% assign project_pages = site.pages | where: "type", "project" | sort: "date" | reverse %}
     {% for page in project_pages %}
