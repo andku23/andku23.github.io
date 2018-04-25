@@ -5,13 +5,13 @@
       <div class="blurring dimmable image">
         <div class = "ui dimmer">
           <div class = "content">
-            <div class = "center">
+            
               {% if page.projecturl %}
-                <a class="ui inverted attached button" href="{{ page.projecturl }}">{{include.page.title}}</a>
+                <a class="ui center" href="{{ page.projecturl }}">{{include.page.title}}</a>
               {% else %}
-                <a class="ui inverted attached button" href="{{ site.baseurl}}{{ include.page.url }}">{{include.page.title}}</a>
+                <a class="ui center" href="{{ site.baseurl}}{{ include.page.url }}">{{include.page.title}}</a>
               {% endif %}   
-            </div>
+     
           </div>
         </div>
         <img src="{{ site.baseurl }}/{{ include.page.image }}">
