@@ -6,15 +6,11 @@
         <div class = "ui dimmer">
           <div class = "content">
             <div class = "center">
-              {% if page.projecturl %}
+             
                 <a style = "background-color:black" href="{{ page.projecturl }}" class = "ui inverted button">
                   {{ include.page.title }}
                 </a>
-              {% else %} 
-                <a style = "background-color:black" href="{{ site.baseurl }}" class = "ui inverted button">
-                  {{ include.page.title }}
-                </a>              
-              {% endif %}   
+             
                 
             </div>
           </div>
