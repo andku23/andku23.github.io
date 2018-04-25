@@ -40,31 +40,3 @@ Since then we have worked on a lot of new feature for HoloSage.  We have changed
 ## Conclusion
 
 Working on HoloSage has been a great opportunity to work on a larger-scale, official project.  I also learned a lot about developing for AR and all of the problem that were associated with it.  I learned about working with multiple people on a project as well as leading other programmers in development.  I really enjoyed working on this project and I hope I can use this experience in other fields as well.
-
-         The Holographic Accelerated Learning Environment (HALE) is a 
-    Mixed Reality program that will use a series of holograms to train 
-    a user to use any device within a room.  This use of Mixed Reality 
-    as a teaching tool will allow the user to be able to see an 
-    interactive set of instructions projected into the real world, 
-    allowing them to learn in an augmented version of the working 
-    environment.
-    
-        The HALE will be able to be used in two main steps.  First, an instructor 
-    will put on the hololens and proceed to use the program to document a room or 
-    object.  Documenting a room will consist of creating holograms within the 
-    world that will display things such as drawings and annotations, written 
-    instructions, usage tips for devices, points of interest, audio recordings 
-    and warning markers.  The instructor will be able to create as many or as 
-    little notes as they would like within the 3D environment.  Once the 
-    instructor feels that they have an adequate amount of notes to teach a new 
-    user, they can save all of the holograms they created in their overlay to a 
-    file.  This file can either be stored locally within the hololens, or 
-    uploaded to a server.  
-    
-        When a student or new user  would like to learn how to use the documented 
-    material, they will be able to use the file saved by the instructor.  The user 
-    can either put on the same hololens as the instructor, or their own hololens 
-    containing the HALE program and download the hologram file from a server.  
-    Once the file is downloaded the user will be able to see all of the notes that 
-    the instructor created.  The user will be able to learn more efficiently by 
-    being able to see all of the annotations within the actual work environment.
