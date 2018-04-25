@@ -8,14 +8,15 @@
 
   <div style = "margin-left:150px" class="column">
 
-    <div style="max-width: 400px; margin-top: 50px; color:#f4f4f4; opacity: 0.8" class="ui fluid centered">
+    <div style="max-width: 400px; margin-top: 50px; color:#ffffff; opacity: 0.8" class="ui fluid centered">
       <div class="center aligned content">
         <span class="header"><h1>{{ site.data.bio.basics.name }}</h1></span>
         <div class="meta">
           <span class="date">{{ site.data.bio.basics.label }}</span>
+          <br/>
         </div>
       </div> 
-      <div class="center aligned content">
+      <div style = "width: 100%" class="center aligned content">
         <a href="{{ site.baseurl}}/projects/">
           <button class="ui inverted button">Projects ({{ num_projects }})</button>
         </a>
