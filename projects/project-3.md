@@ -5,7 +5,7 @@ image: images/alexa.jpg
 title: Alexa Project
 permalink: projects/gsss
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-07-01
 labels:
   - Technical Art
   - Programming
