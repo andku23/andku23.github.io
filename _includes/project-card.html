@@ -17,13 +17,6 @@
     </div>
   </div>
 
-  <div class="extra content">
-    <div class="ui mini labels">
-      {% for label in include.page.labels %}
-        <div class="ui basic label">{{ label }}</div>
-      {% endfor %}
-    </div>
-  </div>
     {% if page.projecturl %}
       <a class="ui bottom attached button" href="{{ page.projecturl }}">Read More</a>
     {% else %}
