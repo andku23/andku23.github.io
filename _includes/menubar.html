@@ -9,7 +9,7 @@
   <div style = "margin-top: 50px" class = "ui centered grid">
     <nav class="ui stackable secondary compact menu">
 
-      <a href="{{ site.baseurl }}/aboutme">About Me</a>
+      <a href="{{ site.baseurl }}/aboutme" class = "item">About Me</a>
       {% if num_projects > 0 %}
       <a href="{{ site.baseurl }}/projects" class=" {% if include.active == "projects" %} active {% endif %}item">Projects ({{ num_projects }})</a>
       {% endif %}
