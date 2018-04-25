@@ -17,7 +17,6 @@ summary: A twist to the common alarm clock
  
 </div>
 
-<h1>The Program</h1>
 
 <b>Have you ever had a phone alarm go off at a time that would be 
     considered inappropriate?</b>
