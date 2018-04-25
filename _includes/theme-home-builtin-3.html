@@ -12,6 +12,17 @@
       <div class="center aligned content">
         <span class="header">{{ site.data.bio.basics.name }}</span>
       </div> 
+      <div class="center aligned content">
+        <a href="{{ site.baseurl}}/projects/">
+          <button class="ui basic button">Projects ({{ num_projects }})</button>
+        </a>
+        <a href="{{ site.baseurl}}/essays/">
+          <button class="ui basic button">Essays ({{ num_essays }})</button>
+        </a>
+        <a href="{{ site.baseurl}}/bio/">
+          <button class="ui basic button">{{ site.bio-page-label }}</button>
+        </a>
+      </div>
     </div>
     
     <div style="max-width: 300px; margin-top: -20px; z-index: 100" class="ui fluid circular image centered">
@@ -39,17 +50,6 @@
       </div>
       <div class="center aligned extra content">
         {% include home-network-links.html %}
-      </div>
-      <div class="center aligned content">
-        <a href="{{ site.baseurl}}/projects/">
-          <button class="ui basic button">Projects ({{ num_projects }})</button>
-        </a>
-        <a href="{{ site.baseurl}}/essays/">
-          <button class="ui basic button">Essays ({{ num_essays }})</button>
-        </a>
-        <a href="{{ site.baseurl}}/bio/">
-          <button class="ui basic button">{{ site.bio-page-label }}</button>
-        </a>
       </div>
     </div>
   </div>
