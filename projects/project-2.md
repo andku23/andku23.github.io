@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/profilepic.png
+image: images/wifi.png
 title: Wifi Alarms
 permalink: projects/nouse
 # All dates must be YYYY-MM-DD format!
