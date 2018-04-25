@@ -27,7 +27,19 @@ When I first started working on HoloSage, I had absolutely no idea how to do AR 
 
 ## Restructuring
 
-Around this time I was getting pretty comfortable with writing for AR.  
+Around this time I was getting pretty comfortable with writing for AR, and looking at the code I had written I realized that I had hacked a lot of this project together.  Since I knew that we were going to have to take this project a lot farther, I decided to rewrite the majority of the code.  When I rewrote the code, I decided to use a selection of different design patterns, the main one being called "strategy".  I created an interface called ISaveable which was implemented by each of the note objects (lines, pointers, text), and each one was forced to implement two methods called Save() and Load().  From then on whenever I had to add new items I would simply have them implement these two methods and that way I could save and load every type of object the same way.  I also rewrote the rest of the project using and Abstract factory to create all of the objects and Subscriber/Publisher to handle all of the Hololens inputs.  I also decided that now would be a good time to comment all of the code that I had written.
+
+## A New Member
+
+As the semester ended, I had a new member named Justin jump onto the project. Fortunately for me I had just rewritten and commented all of the code making it a lot easier to understand.  Because of this it was very easy for Justin, who already had experience developing in Unity, to integrate into the project.  Justin was a fast learner so there really wasn't a lot to teach him.  After this we started on newere features for the hololens.
+
+## New Developments
+
+Since then we have worked on a lot of new feature for HoloSage.  We have changed the workflow of the program to use a recording and playback feature to record notes.  Essentially, the user hits record, then both talks while marking up the room.  When another user hits play, they can listen to the audio while seeing the notes being redrawn in real time.  We thought this allowed for a more interactive program for the user.  We also had the opportunity to test HoloSage inside of one of the USS Bowfin in Pearl Harbor.  Justin has been working on a ton of new feature including video recording, UI/UX improvements, and pausing while recording.
+
+## Conclusion
+
+Working on HoloSage has been a great opportunity to work on a larger-scale, official project.  I also learned a lot about developing for AR and all of the problem that were associated with it.  I learned about working with multiple people on a project as well as leading other programmers in development.  I really enjoyed working on this project and I hope I can use this experience in other fields as well.
 
          The Holographic Accelerated Learning Environment (HALE) is a 
     Mixed Reality program that will use a series of holograms to train 
