@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/profilepic.png
+image: images/holosage.jpg
 title: HoloSage
 permalink: projects/hale
 # All dates must be YYYY-MM-DD format!
