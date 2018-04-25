@@ -15,10 +15,10 @@ summary: Create a Mixed Reality learning environment for the Microsoft Hololens 
 
 <div class="ui stackable two column grid">
   <div class = "ui column">
-    <img class = "ui rounded fluid" src = "../images/holosage/1.jpg">
+    <img class = "ui rounded fluid image" src = "../images/holosage/1.jpg">
   </div>
   <div class = "ui column">
-    <img class = "ui rounded fluid" src = "../images/holosage/2.jpg">
+    <img class = "ui rounded fluid image" src = "../images/holosage/2.jpg">
   </div>
 </div>
 
