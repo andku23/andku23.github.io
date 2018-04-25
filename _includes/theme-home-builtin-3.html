@@ -11,6 +11,9 @@
     <div style="max-width: 400px; margin-top: 50px; color:#f4f4f4; opacity: 0.8" class="ui fluid centered">
       <div class="center aligned content">
         <span class="header"><h1>{{ site.data.bio.basics.name }}</h1></span>
+        <div class="meta">
+          <span class="date">{{ site.data.bio.basics.label }}</span>
+        </div>
       </div> 
       <div class="center aligned content">
         <a href="{{ site.baseurl}}/projects/">
@@ -25,9 +28,7 @@
       </div>
       <div style="margin-top: 20px" class="center aligned content">
         <span class="header">{{ site.data.bio.basics.name }}</span>
-        <div class="meta">
-          <span class="date">{{ site.data.bio.basics.label }}</span>
-        </div>
+        
         <div class="left aligned description">
           {{ site.data.bio.basics.summary }}
         </div>
