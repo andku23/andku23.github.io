@@ -17,7 +17,17 @@ summary: Create a Mixed Reality learning environment for the Microsoft Hololens 
  
 </div>
 
-<h1>The Program</h1>
+## Introduction
+
+HoloSage was a project that I started while working in the Laboratory for Advanced Visualizations and Applications (LAVA).  This project was actually contracted by one of the navy departments, because they wanted to see if they could use Augmented Reality (AR) to teach new users how to operate and maintain large vehicles such as submarines.  The original idea was that they wanted to use the Microsoft Hololens, and have a senior engineer walk around a room and create different notes in different locations.  For example they could leave text notes by certain dials that specified what each dial did and why they were important.  They could also get different colored pens and draw notes into the 3D space to mark things like designated paths and dangerous areas.
+
+## Starting the Project
+
+When I first started working on HoloSage, I had absolutely no idea how to do AR development.  I did have prior experience in developing for Unity as well as some VR development, but AR was a completely new field for me.  In addition to this, AR is still a relatively new field at least when developing for the Hololens.  There wasn't a lot of good descriptive documentation online, which made learning it even more difficult.  It took me a really long time before I even had something resembling the project.  I remembered the first feature I implemented was the ability to draw using the AirTap gesture on the hololens.  You could get your hand, pinch and move it around, and a line would draw where you were looking.  I was really happy to get this working because up until this point I was having next to no results and no way to see if what I was doing was working.  After this I then added in saving and loading the points of the line to the Hololens, so now there was a way to persistently store the lines you drew.
+
+## Restructuring
+
+Around this time I was getting pretty comfortable with writing for AR.  
 
          The Holographic Accelerated Learning Environment (HALE) is a 
     Mixed Reality program that will use a series of holograms to train 
