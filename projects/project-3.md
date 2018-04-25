@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/alexa.PNG
+image: images/alexa.jpg
 title: Alexa Project
 permalink: projects/gsss
 # All dates must be YYYY-MM-DD format!
