@@ -13,7 +13,7 @@ labels:
 summary: Create a Mixed Reality learning environment for the Microsoft Hololens to assist the navy in training new recruits.
 ---
 
-<div class="ui small rounded images">
+<div class="ui rounded images">
   <img src = "../images/holosage/1.jpg">
   <img src = "../images/holosage/2.jpg">
 </div>
