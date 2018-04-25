@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/profilepic.png
-title: Holographic Accelerated Learning Environment (HALE)
+title: HoloSage
 permalink: projects/hale
 # All dates must be YYYY-MM-DD format!
 date: 2017-08-01
