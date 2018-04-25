@@ -7,9 +7,9 @@
           <div class = "content">
             
               {% if page.projecturl %}
-                <a class="ui center" href="{{ page.projecturl }}">{{include.page.title}}</a>
+                <a class="ui center" href="{{ page.projecturl }}"><h6>{{include.page.title}}</h6></a>
               {% else %}
-                <a class="ui center" href="{{ site.baseurl}}{{ include.page.url }}">{{include.page.title}}</a>
+                <a class="ui center" href="{{ site.baseurl}}{{ include.page.url }}"><h6>{{include.page.title}}</h6></a>
               {% endif %}   
      
           </div>
