@@ -5,7 +5,7 @@ image: images/wifi.png
 title: Wifi Alarms
 permalink: projects/nouse
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-16
+date: 2016-10-16
 labels:
   - Android Studios
   - App Development
