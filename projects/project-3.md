@@ -18,7 +18,7 @@ summary: Quest to design a game to embellish my team portfolio.  One summer's at
 </div>
 <div style = "text-align:justify">
   
- <iframe width="100%" height="auto" src="https://www.youtube.com/embed/F-X4SLhorvw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+ <iframe width="100%" src="https://www.youtube.com/embed/F-X4SLhorvw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <h1>Alexa I</h1>
 
 
