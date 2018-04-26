@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/alexa.jpg
+image: images/kirukata.PNG
 title: Kirukata VR
 permalink: kirukata/gsss
 # All dates must be YYYY-MM-DD format!
