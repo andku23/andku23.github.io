@@ -16,9 +16,10 @@ summary: I wanted to make a VR Game where you cut things with a sword
 <div class="ui small rounded images">
  
 </div>
-<div style = "width: 100%; background-color:blue>
+<div style = "width: 100%; background-color:blue">
   <iframe style = "background-color:black;overflow: hidden; width=100%; height=100%"   src="https://www.youtube.com/embed/T2_TL2cCOo4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+
 
 ## Introduction
 
