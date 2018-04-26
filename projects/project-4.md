@@ -17,6 +17,8 @@ summary: I wanted to make a VR Game where you cut things with a sword
  
 </div>
 
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/T2_TL2cCOo4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Introduction
 
 Kirukata VR was the first game that I created for VR.  I really wanted to make a game that utilized VR to do something that I've always wanted.  In this case it was cutting flying cubes with a katana, which has always been a dream of mine.  Before I made this game, I already had a samurai sword 3D model that I made from a while ago, so I decided that it would finally be time to put it to use.
