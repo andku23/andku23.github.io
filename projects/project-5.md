@@ -5,7 +5,7 @@ image: images/runba/2.PNG
 title: Runba Rush
 permalink: runba/gsss
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-023
+date: 2018-01-23
 labels:
   - Technical Art
   - VR
@@ -15,10 +15,10 @@ summary: GGJ 2018 project
 
 <div class="ui stackable two column grid">
   <div class = "ui column">
-    <img class = "ui rounded fluid image" src = "../images/runba/1.jpg">
+    <img class = "ui rounded fluid image" src = "../images/runba/1.PNG">
   </div>
   <div class = "ui column">
-    <img class = "ui rounded fluid image" src = "../images/runba/4.jpg">
+    <img class = "ui rounded fluid image" src = "../images/runba/4.PNG">
   </div>
 </div>
 
