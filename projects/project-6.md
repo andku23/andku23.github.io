@@ -14,7 +14,12 @@ summary: This is a dream game that I've always wanted to make.  It's still a wor
 ---
 
 <div class="ui stackable two column grid">
-  
+  <div class = "ui column">
+    <img class = "ui rounded fluid image" src = "../images/winds/2.PNG">
+  </div>
+  <div class = "ui column">
+    <img class = "ui rounded fluid image" src = "../images/runba/4.PNG">
+  </div>
 </div>
 
 ## Introduction
@@ -23,11 +28,15 @@ Winds of Sarkha is a dream-list game that I've always want to make.  I wanted to
 
 ## The Art
 
+<img class = "ui rounded fluid image" src = "../images/winds/3.jpg">
 
 
 I have a pretty basic idea of what I want this game to look like.  Lately I've been trying to put my ideas down on paper where I can see them.
 
 ## Compute Shaders
+
+<img class = "ui rounded fluid image" src = "../images/winds/2.PNG">
+
 
 Prior to starting this, I have had no prior experience in writing anything GPU related.  I thought that a good way to go about learning would be to read some books on it so I started reading the Nvidia book on CG as well as some of their GPU Gems.  From the GPU Gems I found out about the marching cubes algorithm, which is an algorithm used to create voxel terrain.  I did my best to implement this code, starting by doing it in the CPU, and when I finally got that working, in the GPU.  Eventually I had a couple compute shaders that could make very simple voxel terrain.  So far that's as much as I've gotten.
 
@@ -35,4 +44,4 @@ Prior to starting this, I have had no prior experience in writing anything GPU r
 
 ## Conclusion
 
-For the Game Jam there were 3 categories, Best Overall, Most Creative, and Most Diverse.  Our game took Most Diverse because of its absolute craziness and our use of the additional themes that we were given.  Last Game Jam I had tagged along with a group and only contributed minimally.  This year it was nice to have my own team and be one of the major contributors to the game.
+It's going to be a while before this game is anything even remotely recognizable.  I really hope this can be something cool one day, it's something that I've always wanted to make.
