@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/runba/2.PNG
 title: Runba Rush
-permalink: runba/gsss
+permalink: runbaa/gsss
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-23
 labels:
