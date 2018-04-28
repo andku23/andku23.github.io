@@ -13,14 +13,6 @@ labels:
 summary: This is a dream game that I've always wanted to make.  It's still a work in progress
 ---
 
-<div class="ui stackable two column grid">
-  <div class = "ui column">
-    <img class = "ui rounded fluid image" src = "../images/winds/2.PNG">
-  </div>
-  <div class = "ui column">
-    <img class = "ui rounded fluid image" src = "../images/runba/4.PNG">
-  </div>
-</div>
 
 ## Introduction
 
