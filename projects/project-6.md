@@ -23,7 +23,7 @@ Winds of Sarkha is a dream-list game that I've always want to make.  I wanted to
 <img class = "ui rounded fluid image" src = "../images/winds/3.jpg">
 
 
-I have a pretty basic idea of what I want this game to look like.  Lately I've been trying to put my ideas down on paper where I can see them.
+I just want to put out there that I am by far not the best artist in the world.  However, I need to put things down on paper so I can see what they look like in my head.  With that said I have a pretty basic idea of what I want this game to look like. Nice mountains and scenery would be great.  I just need to work on the next part.
 
 ## Compute Shaders
 
