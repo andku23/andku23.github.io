@@ -58,13 +58,13 @@ From there I created renders of different angles of the model and device.  Final
 
 <div class="ui stackable three column grid">
   <div class = "ui column">
-    <img class = "ui rounded fluid image" src = "../images/detector/6.png">
+    <img class = "ui rounded fluid image" src = "../images/detector/6.jpg">
   </div>
   <div class = "ui column">
-    <img class = "ui rounded fluid image" src = "../images/detector/7.png">
+    <img class = "ui rounded fluid image" src = "../images/detector/7.jpg">
   </div>
   <div class = "ui column">
-    <img class = "ui rounded fluid image" src = "../images/detector/8.png">
+    <img class = "ui rounded fluid image" src = "../images/detector/8.jpg">
   </div>
 </div>
 <h6>Using editing tools I simply put the render into some possible situations.</h6>
