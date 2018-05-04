@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/winds/1.png
+image: images/detector/10.png
 title: Radiation Detector
 permalink: rad/gsss
 # All dates must be YYYY-MM-DD format!
@@ -24,12 +24,15 @@ Since they needed to get funding, they needed a way to show the concept to possi
 
 First they gave me some concepts on how they wanted it to look like and function:
 
-<div class="ui stackable two column grid">
+<div class="ui stackable three column grid">
   <div class = "ui column">
     <img class = "ui rounded fluid image" src = "../images/detector/1.png">
   </div>
   <div class = "ui column">
     <img class = "ui rounded fluid image" src = "../images/detector/2.png">
+  </div>
+  <div class = "ui column">
+    <img class = "ui rounded fluid image" src = "../images/detector/9.PNG">
   </div>
 </div>
 
