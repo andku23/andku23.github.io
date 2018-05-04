@@ -36,7 +36,9 @@ First they gave me some concepts on how they wanted it to look like and function
   </div>
 </div>
 
-First I bought some 2 dollar 3D model of a soldier from online.  I then rigged him up so that I could put him in different poses.  Using Blender I made a mockup of the device and then attached it to the model.  
+<br>
+Then I bought some 2 dollar 3D model of a soldier from online.  I then rigged him up so that I could put him in different poses.  Using Blender I made a mockup of the device and then attached it to the model.  
+<br>
 
 <div class="ui stackable three column grid">
   <div class = "ui column">
