@@ -35,7 +35,7 @@ First they gave me some concepts on how they wanted it to look like and function
     <img class = "ui rounded fluid image" src = "../images/detector/9.PNG">
   </div>
 </div>
-<h5>These are what they originally gave me when they told me what they wanted</h5>
+<h5>These are what they originally gave me when they told me what they wanted, The two on the left are two simple mockups they made, and the right is a blueprint of the device</h5>
 
 <br>
 Then I bought some 2 dollar 3D model of a soldier from online.  I then rigged him up so that I could put him in different poses.  Using Blender I made a mockup of the device and then attached it to the model.  
