@@ -15,14 +15,7 @@ summary: Create a Mixed Reality learning environment for the Microsoft Hololens 
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/G3_7zh435Sk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<div class="ui stackable two column grid">
-  <div class = "ui column">
-    <img class = "ui rounded fluid image" src = "../images/holosage/1.jpg">
-  </div>
-  <div class = "ui column">
-    <img class = "ui rounded fluid image" src = "../images/holosage/2.jpg">
-  </div>
-</div>
+
 
 ## Introduction
 
@@ -31,6 +24,15 @@ HoloSage was a project that I started while working in the Laboratory for Advanc
 ## Starting the Project
 
 When I first started working on HoloSage, I had absolutely no idea how to do AR development.  I did have prior experience in developing for Unity as well as some VR development, but AR was a completely new field for me.  In addition to this, AR is still a relatively new field at least when developing for the Hololens.  There wasn't a lot of good descriptive documentation online, which made learning it even more difficult.  It took me a really long time before I even had something resembling the project.  I remembered the first feature I implemented was the ability to draw using the AirTap gesture on the hololens.  You could get your hand, pinch and move it around, and a line would draw where you were looking.  I was really happy to get this working because up until this point I was having next to no results and no way to see if what I was doing was working.  After this I then added in saving and loading the points of the line to the Hololens, so now there was a way to persistently store the lines you drew.
+
+<div class="ui stackable two column grid">
+  <div class = "ui column">
+    <img class = "ui rounded fluid image" src = "../images/holosage/1.jpg">
+  </div>
+  <div class = "ui column">
+    <img class = "ui rounded fluid image" src = "../images/holosage/2.jpg">
+  </div>
+</div>
 
 ## Restructuring
 
