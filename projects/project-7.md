@@ -35,7 +35,7 @@ First they gave me some concepts on how they wanted it to look like and function
     <img class = "ui rounded fluid image" src = "../images/detector/9.PNG">
   </div>
 </div>
-<h6>These are what they originally gave me when they told me what they wanted</h6>
+<h5>These are what they originally gave me when they told me what they wanted</h5>
 
 <br>
 Then I bought some 2 dollar 3D model of a soldier from online.  I then rigged him up so that I could put him in different poses.  Using Blender I made a mockup of the device and then attached it to the model.  
@@ -52,7 +52,7 @@ Then I bought some 2 dollar 3D model of a soldier from online.  I then rigged hi
     <img class = "ui rounded fluid image" src = "../images/detector/5.png">
   </div>
 </div>
-<h6>Both the model I made, with the renders I created.  Let it be known that I didn't make the soldier, we bought it because it was pretty cheap.  I did rig it however for the different poses.</h6>
+<h5>Both the model I made, with the renders I created.  Let it be known that I didn't make the soldier, we bought it because it was pretty cheap.  I did rig it however for the different poses.</h5>
 
 From there I created renders of different angles of the model and device.  Finally I made different images where you can see the device being used.
 
@@ -67,7 +67,7 @@ From there I created renders of different angles of the model and device.  Final
     <img class = "ui rounded fluid image" src = "../images/detector/8.jpg">
   </div>
 </div>
-<h6>Using editing tools I simply put the render into some possible situations.</h6>
+<h5>Using editing tools I simply put the render into some possible situations.</h5>
 
 ## Conclusion
 
