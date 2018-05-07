@@ -63,7 +63,9 @@ From there I created renders of different angles of the model and device.  Final
     <img class = "ui rounded fluid image" src = "../images/detector/7.jpg">
   </div>
 </div>
+
 <img class = "ui rounded fluid image" src = "../images/detector/8.jpg">
+
 <h5>Using editing tools I simply put the render into some possible situations this device could be used.  One example was inspecting shipping containers, another was to check radioactive zones</h5>
 
 ## Conclusion
