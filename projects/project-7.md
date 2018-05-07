@@ -31,10 +31,10 @@ First they gave me some concepts on how they wanted it to look like and function
   <div class = "ui column">
     <img class = "ui rounded fluid image" src = "../images/detector/2.png">
   </div>
-  <div class = "ui row">
-    <img class = "ui rounded fluid image" src = "../images/detector/9.PNG">
-  </div>
 </div>
+
+<img class = "ui stackable rounded fluid image" src = "../images/detector/9.PNG">
+
 <h5>These are what they originally gave me when they told me what they wanted, The two on the left are two simple mockups they made, and the right is a blueprint of the device</h5>
 
 <br>
