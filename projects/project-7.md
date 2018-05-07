@@ -24,14 +24,14 @@ Since they needed to get funding, they needed a way to show the concept to possi
 
 First they gave me some concepts on how they wanted it to look like and function:
 
-<div class="ui stackable three column grid">
+<div class="ui stackable two column grid">
   <div class = "ui column">
     <img class = "ui rounded fluid image" src = "../images/detector/1.png">
   </div>
   <div class = "ui column">
     <img class = "ui rounded fluid image" src = "../images/detector/2.png">
   </div>
-  <div class = "ui column">
+  <div class = "ui row">
     <img class = "ui rounded fluid image" src = "../images/detector/9.PNG">
   </div>
 </div>
