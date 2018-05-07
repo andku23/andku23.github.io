@@ -41,10 +41,9 @@ First they gave me some concepts on how they wanted it to look like and function
 Then I bought some 2 dollar 3D model of a soldier from online.  I then rigged him up so that I could put him in different poses.  Using Blender I made a mockup of the device and then attached it to the model.  
 <br>
 
-<div class="ui stackable three column grid">
-  <div class = "ui column">
-    <img class = "ui rounded fluid image" src = "../images/detector/3.png">
-  </div>
+
+<img class = "ui rounded fluid image" src = "../images/detector/3.png">
+<div class="ui stackable two column grid">
   <div class = "ui column">
     <img class = "ui rounded fluid image" src = "../images/detector/4.png">
   </div>
@@ -63,10 +62,8 @@ From there I created renders of different angles of the model and device.  Final
   <div class = "ui column">
     <img class = "ui rounded fluid image" src = "../images/detector/7.jpg">
   </div>
-  <div class = "ui column">
-    <img class = "ui rounded fluid image" src = "../images/detector/8.jpg">
-  </div>
 </div>
+<img class = "ui rounded fluid image" src = "../images/detector/8.jpg">
 <h5>Using editing tools I simply put the render into some possible situations this device could be used.  One example was inspecting shipping containers, another was to check radioactive zones</h5>
 
 ## Conclusion
