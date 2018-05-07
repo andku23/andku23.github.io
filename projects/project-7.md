@@ -55,7 +55,7 @@ Then I bought some 2 dollar 3D model of a soldier from online.  I then rigged hi
 
 From there I created renders of different angles of the model and device.  Finally I made different images where you can see the device being used.
 
-<div class="ui stackable three column grid">
+<div class="ui stackable two column grid">
   <div class = "ui column">
     <img class = "ui rounded fluid image" src = "../images/detector/6.jpg">
   </div>
