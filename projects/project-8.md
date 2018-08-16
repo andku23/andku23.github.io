@@ -66,4 +66,4 @@ Once I made all of the components I imported everything into Unity.  I wrote a c
 
 ## End Product
 
-At the end we had an AR app that would recognize our Alexa, and swap between different effects.  You could also just add new GameObjects and in Unity and it would add those to the swapped effects.  Overall I thought this was a good learning experience and I hope I get the chance to do more mobile AR development.
+At the end we had an AR app that would recognize our Alexa, and swap between different effects.  You could also just add new GameObjects and in Unity and it would add those to the swapped effects.  If I did continue this I would have to look into the Alexa Voice Services Documentation since that's the only way to figure out when she is actively listening, and I wanted the decorations to change with her state. I think Amazon keeps it somewhat locked down and if I did do this, I would need to get a Raspberry Pi to emulate Alexa and write an app directly for Alexa.  Overall I thought this was a good learning experience and I hope I get the chance to do more mobile AR development.  
