@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ARexa/title.jpg
+image: images/ARexa/Title.jpg
 title: Alexa AR
 permalink: projects/hale
 # All dates must be YYYY-MM-DD format!
