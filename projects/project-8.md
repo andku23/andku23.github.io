@@ -30,8 +30,7 @@ This was a project that I created with my friend to learn how to do Mobile AR De
   </div>
 </div>
 <h6 style = "text-align:justify">
-    Then just change it on your website
-</h6>
+    Then just change it on your website, it took me forever to find this announcement.
 
 By setting up I mean matching jdk and sdk versions for java and android.  Honestly I think that this was the hardest part because we had to revert back on a couple versions and the error message doesn't let you know that's why it was breaking.
 
