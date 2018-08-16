@@ -75,7 +75,7 @@ Once I made all of the components I imported everything into Unity.  I wrote a c
   <img class = "ui rounded fluid image" src = "../images/ARexa/Anims.PNG">
 </div>
 <h6 style = "text-align:justify">
-    We made sure to make a transparent mask for Alexa so that when it was rendered into the environment, she would hide things that went behind her.
+    We made sure to make a transparent mask for Alexa so that when it was rendered into the environment, she would hide effects that went behind her.
 </h6>
 
 ## End Product
