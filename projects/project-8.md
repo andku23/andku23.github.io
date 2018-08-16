@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/holosage.jpg
-title: HoloSage
+image: images/ARexa/title.jpg
+title: Alexa AR
 permalink: projects/hale
 # All dates must be YYYY-MM-DD format!
 date: 2017-08-01
 labels:
   - Unity
   - AR/VR/Mixed Reality
-  - Microsoft Hololens
+  - Mobile AR
 summary: Create a Mixed Reality learning environment for the Microsoft Hololens to assist the navy in training new recruits.
 ---
 
