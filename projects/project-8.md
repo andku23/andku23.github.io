@@ -29,7 +29,21 @@ I know that there's a lot of different software for AR Image Tracking and Object
 
 Using Vuforia was pretty easy since it was directly integrated into Unity.  We just made an account and downloaded the 3D scan app for Vuforia so we could start scanning in things.  We scanned in a bunch of stuff in the lab, like coffee cans, until we got the hang of using the app.  After that we 3D scanned in our Amazon Alexa.  
 
+<div class="ui stackable three column grid">
+  <div class = "ui column">
+    <img class = "ui rounded fluid image" src = "../images/ARexa/Ball.jpg">
+  </div>
+  <div class = "ui column">
+    <img class = "ui rounded fluid image" src = "../images/ARexa/Nexus.jpg">
+  </div>
+  <div class = "ui column">
+    <img class = "ui rounded fluid image" src = "../images/ARexa/Planet.jpg">
+  </div>
+</div>
+
 ## Creating Some Aesthetic Effects
+
+<img class = "ui rounded fluid image" src = "../images/ARexa/Blender.jpg">
 
 After we got all the Vuforia components working correctly I went into Blender to go make some effects and animations for Unity.  We brainstormed a couple ideas to have for Alexa which were an interactive blue ball, and active nexus effect, and some orbiting planets.  Most of the effects could be made directly in Unity but the interactive ball needed a little bit of Blender work.  Basically all I did in Blender was model the ball, set up it's UVs for UV animations, then create some short animations to make it look clean.
 
