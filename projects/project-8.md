@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/ARexa/Title.jpg
 title: Alexa AR
-permalink: projects/hale
+permalink: projects/ALexa
 # All dates must be YYYY-MM-DD format!
 date: 2017-08-01
 labels:
