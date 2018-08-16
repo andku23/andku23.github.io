@@ -21,7 +21,19 @@ This was a project that I created with my friend to learn how to do Mobile AR De
 
 ## Setting Everything Up
 
-By setting up I mean matching jdk and sdk versions for java and android.  Honestly I think that this was the hardest part because we had to revert back on a couple versions despite everything else online telling us that the latest versions worked flawlessly.
+<div class="ui stackable two column grid">
+  <div class = "ui column">
+    <img class = "ui rounded fluid image" src = "../images/ARexa/Wat1.PNG">
+  </div>
+  <div class = "ui column">
+    <img class = "ui rounded fluid image" src = "../images/ARexa/Wut2.PNG">
+  </div>
+</div>
+<h6 style = "text-align:justify">
+    Then just change it on your website
+</h6>
+
+By setting up I mean matching jdk and sdk versions for java and android.  Honestly I think that this was the hardest part because we had to revert back on a couple versions and the error message doesn't let you know that's why it was breaking.
 
 ## Learning Vuforia
 
