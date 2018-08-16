@@ -53,7 +53,7 @@ After we got all the Vuforia components working correctly I went into Blender to
 Most of the effects could be made directly in Unity but the interactive ball needed a little bit of Blender work.  Basically all I did in Blender was model the ball, set up it's UVs for UV animations, then create some short animations to make it look clean.
 
 <div>
-  <img class = "ui rounded fluid image" src = "../images/ARexa/Blender.jpg">
+  <img class = "ui rounded fluid image" src = "../images/ARexa/Blender.png">
 </div>
 <h6 style = "text-align:justify">
     I made the floating ball in Blender and set it up so that if you scroll the UV texture upward on the UV it generates that pulsing effect we wanted.
