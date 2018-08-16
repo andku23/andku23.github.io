@@ -37,6 +37,13 @@ By setting up I mean matching jdk and sdk versions for java and android.  Honest
 
 ## Learning Vuforia
 
+<div>
+  <img class = "ui rounded fluid image" src = "../images/ARexa/Vuforia.jpg">
+</div>
+<h6 style = "text-align:justify">
+    We scanned in this coffee can since it was the most vibrantly textured things we had in the lab.  We used it to find the best technique for the 3D scan.
+</h6>
+
 I know that there's a lot of different software for AR Image Tracking and Object Tracking but I had seen Vuforia before and it seemed like the most popular option. I also noticed that a lot of other options were marketed as "Vuforia Alternatives", so I figured that I may as well just use the original.
 
 Using Vuforia was pretty easy since it was directly integrated into Unity.  We just made an account and downloaded the 3D scan app for Vuforia so we could start scanning in things.  We scanned in a bunch of stuff in the lab, like coffee cans, until we got the hang of using the app.  After that we 3D scanned in our Amazon Alexa.  
